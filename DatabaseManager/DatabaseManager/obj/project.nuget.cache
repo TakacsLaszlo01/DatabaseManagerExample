@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rc+bkS+7nrw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tanar-taklas\\source\\repos\\DatabaseManager\\DatabaseManager\\DatabaseManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanar-taklas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\tanar-taklas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\tanar-taklas\\.nuget\\packages\\mysqlconnector\\2.6.2\\mysqlconnector.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
